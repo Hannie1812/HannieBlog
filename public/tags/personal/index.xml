@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Personal on Hannie&#39;s Blog</title>
-    <link>https://hannie1812.github.io/HannieBlog/tags/personal/</link>
+    <link>http://localhost:1313/HannieBlog/tags/personal/</link>
     <description>Recent content in Personal on Hannie&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi</language>
     <managingEditor>bichhang18122004@gmail.com (Hannie Ngô)</managingEditor>
     <webMaster>bichhang18122004@gmail.com (Hannie Ngô)</webMaster>
     <copyright>Hannie Ngô © 2025</copyright>
-    <lastBuildDate>Sun, 12 Oct 2025 15:37:26 +0700</lastBuildDate><atom:link href="https://hannie1812.github.io/HannieBlog/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Oct 2025 15:37:26 +0700</lastBuildDate><atom:link href="http://localhost:1313/HannieBlog/tags/personal/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About Me</title>
-      <link>https://hannie1812.github.io/HannieBlog/aboutme/</link>
+      <link>http://localhost:1313/HannieBlog/aboutme/</link>
       <pubDate>Sun, 12 Oct 2025 15:37:26 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://hannie1812.github.io/HannieBlog/aboutme/</guid>
+      <guid>http://localhost:1313/HannieBlog/aboutme/</guid>
       <description>&lt;p align=&#34;center&#34;&gt;
-  &lt;img src=&#34;https://hannie1812.github.io/HannieBlog/img/about_me.png&#34; alt=&#34;Ảnh đại diện&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/HannieBlog/img/about_me.png&#34; alt=&#34;Ảnh đại diện&#34;&gt;
 &lt;/p&gt;
 
 &lt;h3 class=&#34;relative group&#34;&gt;👋 Chào bạn, mình là Hannie! 

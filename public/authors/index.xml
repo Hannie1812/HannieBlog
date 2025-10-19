@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Hannie&#39;s Blog</title>
-    <link>https://hannie1812.github.io/HannieBlog/authors/</link>
+    <link>http://localhost:1313/HannieBlog/authors/</link>
     <description>Recent content in Authors on Hannie&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi</language>
     <managingEditor>bichhang18122004@gmail.com (Hannie Ngô)</managingEditor>
     <webMaster>bichhang18122004@gmail.com (Hannie Ngô)</webMaster>
     <copyright>Hannie Ngô © 2025</copyright>
-    <atom:link href="https://hannie1812.github.io/HannieBlog/authors/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/HannieBlog/authors/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
