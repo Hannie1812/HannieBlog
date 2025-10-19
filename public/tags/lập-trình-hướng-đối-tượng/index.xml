@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lập Trình Hướng Đối Tượng on Hannie&#39;s Blog</title>
-    <link>https://your_domain.com/tags/l%E1%BA%ADp-tr%C3%ACnh-h%C6%B0%E1%BB%9Bng-%C4%91%E1%BB%91i-t%C6%B0%E1%BB%A3ng/</link>
+    <link>https://hannie1812.github.io/HannieBlog/tags/l%E1%BA%ADp-tr%C3%ACnh-h%C6%B0%E1%BB%9Bng-%C4%91%E1%BB%91i-t%C6%B0%E1%BB%A3ng/</link>
     <description>Recent content in Lập Trình Hướng Đối Tượng on Hannie&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi</language>
     <managingEditor>bichhang18122004@gmail.com (Hannie Ngô)</managingEditor>
     <webMaster>bichhang18122004@gmail.com (Hannie Ngô)</webMaster>
     <copyright>Hannie Ngô © 2025</copyright>
-    <lastBuildDate>Tue, 14 Oct 2025 09:00:00 +0700</lastBuildDate><atom:link href="https://your_domain.com/tags/l%E1%BA%ADp-tr%C3%ACnh-h%C6%B0%E1%BB%9Bng-%C4%91%E1%BB%91i-t%C6%B0%E1%BB%A3ng/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 14 Oct 2025 09:00:00 +0700</lastBuildDate><atom:link href="https://hannie1812.github.io/HannieBlog/tags/l%E1%BA%ADp-tr%C3%ACnh-h%C6%B0%E1%BB%9Bng-%C4%91%E1%BB%91i-t%C6%B0%E1%BB%A3ng/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Bài 2: Lập Trình Hướng Đối Tượng (OOP) Trong Java</title>
-      <link>https://your_domain.com/posts/java-beginner/02_lap-trinh-huong-doi-tuong/</link>
+      <link>https://hannie1812.github.io/HannieBlog/posts/java-beginner/02_lap-trinh-huong-doi-tuong/</link>
       <pubDate>Tue, 14 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://your_domain.com/posts/java-beginner/02_lap-trinh-huong-doi-tuong/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/posts/java-beginner/02_lap-trinh-huong-doi-tuong/</guid>
       <description>Tìm hiểu sâu về 4 trụ cột của OOP trong Java: Tính đóng gói, Kế thừa, Đa hình và Trừu tượng, với các ví dụ thực tế.</description>
       
     </item>

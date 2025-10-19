@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Core Java on Hannie&#39;s Blog</title>
-    <link>https://your_domain.com/tags/core-java/</link>
+    <link>https://hannie1812.github.io/HannieBlog/tags/core-java/</link>
     <description>Recent content in Core Java on Hannie&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi</language>
     <managingEditor>bichhang18122004@gmail.com (Hannie Ngô)</managingEditor>
     <webMaster>bichhang18122004@gmail.com (Hannie Ngô)</webMaster>
     <copyright>Hannie Ngô © 2025</copyright>
-    <lastBuildDate>Thu, 16 Oct 2025 09:00:00 +0700</lastBuildDate><atom:link href="https://your_domain.com/tags/core-java/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Oct 2025 09:00:00 +0700</lastBuildDate><atom:link href="https://hannie1812.github.io/HannieBlog/tags/core-java/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Bài 4: Lập Trình Đa Luồng (Multithreading) Trong Java</title>
-      <link>https://your_domain.com/posts/java-beginner/04_lap-trinh-da-luong/</link>
+      <link>https://hannie1812.github.io/HannieBlog/posts/java-beginner/04_lap-trinh-da-luong/</link>
       <pubDate>Thu, 16 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://your_domain.com/posts/java-beginner/04_lap-trinh-da-luong/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/posts/java-beginner/04_lap-trinh-da-luong/</guid>
       <description>Tìm hiểu về lập trình đa luồng trong Java, từ Thread/Runnable cơ bản, ExecutorService, đến CompletableFuture hiện đại.</description>
       
     </item>
     
     <item>
       <title>Bài 3: Java Collections Framework - List, Set, và Map</title>
-      <link>https://your_domain.com/posts/java-beginner/03_java-collections-framework/</link>
+      <link>https://hannie1812.github.io/HannieBlog/posts/java-beginner/03_java-collections-framework/</link>
       <pubDate>Wed, 15 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://your_domain.com/posts/java-beginner/03_java-collections-framework/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/posts/java-beginner/03_java-collections-framework/</guid>
       <description>Hiểu sâu về 3 interface cốt lõi của Java Collections Framework: List, Set, và Map, cùng các lớp triển khai phổ biến như ArrayList, HashSet, HashMap.</description>
       
     </item>
     
     <item>
       <title>Bài 2: Lập Trình Hướng Đối Tượng (OOP) Trong Java</title>
-      <link>https://your_domain.com/posts/java-beginner/02_lap-trinh-huong-doi-tuong/</link>
+      <link>https://hannie1812.github.io/HannieBlog/posts/java-beginner/02_lap-trinh-huong-doi-tuong/</link>
       <pubDate>Tue, 14 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://your_domain.com/posts/java-beginner/02_lap-trinh-huong-doi-tuong/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/posts/java-beginner/02_lap-trinh-huong-doi-tuong/</guid>
       <description>Tìm hiểu sâu về 4 trụ cột của OOP trong Java: Tính đóng gói, Kế thừa, Đa hình và Trừu tượng, với các ví dụ thực tế.</description>
       
     </item>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Callbacks on Hannie&#39;s Blog</title>
-    <link>https://your_domain.com/tags/callbacks/</link>
+    <link>https://hannie1812.github.io/HannieBlog/tags/callbacks/</link>
     <description>Recent content in Callbacks on Hannie&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi</language>
     <managingEditor>bichhang18122004@gmail.com (Hannie Ngô)</managingEditor>
     <webMaster>bichhang18122004@gmail.com (Hannie Ngô)</webMaster>
     <copyright>Hannie Ngô © 2025</copyright>
-    <lastBuildDate>Mon, 13 Oct 2025 10:00:00 +0700</lastBuildDate><atom:link href="https://your_domain.com/tags/callbacks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Oct 2025 10:00:00 +0700</lastBuildDate><atom:link href="https://hannie1812.github.io/HannieBlog/tags/callbacks/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Bài 3: JavaScript Bất đồng bộ (Async) - Từ Callbacks, Promises đến Async/Await</title>
-      <link>https://your_domain.com/posts/js-beginner/03_javascript-bat-dong-bo/</link>
+      <link>https://hannie1812.github.io/HannieBlog/posts/js-beginner/03_javascript-bat-dong-bo/</link>
       <pubDate>Mon, 13 Oct 2025 10:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://your_domain.com/posts/js-beginner/03_javascript-bat-dong-bo/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/posts/js-beginner/03_javascript-bat-dong-bo/</guid>
       <description>Tìm hiểu về cách JavaScript xử lý các tác vụ bất đồng bộ, từ callbacks truyền thống đến promises và cú pháp hiện đại async/await.</description>
       
     </item>

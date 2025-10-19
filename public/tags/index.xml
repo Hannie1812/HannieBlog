@@ -2,331 +2,331 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Hannie&#39;s Blog</title>
-    <link>https://your_domain.com/tags/</link>
+    <link>https://hannie1812.github.io/HannieBlog/tags/</link>
     <description>Recent content in Tags on Hannie&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi</language>
     <managingEditor>bichhang18122004@gmail.com (Hannie Ngô)</managingEditor>
     <webMaster>bichhang18122004@gmail.com (Hannie Ngô)</webMaster>
     <copyright>Hannie Ngô © 2025</copyright>
-    <lastBuildDate>Fri, 17 Oct 2025 09:00:00 +0700</lastBuildDate><atom:link href="https://your_domain.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Oct 2025 09:00:00 +0700</lastBuildDate><atom:link href="https://hannie1812.github.io/HannieBlog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Java</title>
-      <link>https://your_domain.com/tags/java/</link>
+      <link>https://hannie1812.github.io/HannieBlog/tags/java/</link>
       <pubDate>Fri, 17 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://your_domain.com/tags/java/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/tags/java/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>JPA</title>
-      <link>https://your_domain.com/tags/jpa/</link>
+      <link>https://hannie1812.github.io/HannieBlog/tags/jpa/</link>
       <pubDate>Fri, 17 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://your_domain.com/tags/jpa/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/tags/jpa/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>REST API</title>
-      <link>https://your_domain.com/tags/rest-api/</link>
+      <link>https://hannie1812.github.io/HannieBlog/tags/rest-api/</link>
       <pubDate>Fri, 17 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://your_domain.com/tags/rest-api/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/tags/rest-api/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Spring Boot</title>
-      <link>https://your_domain.com/tags/spring-boot/</link>
+      <link>https://hannie1812.github.io/HannieBlog/tags/spring-boot/</link>
       <pubDate>Fri, 17 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://your_domain.com/tags/spring-boot/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/tags/spring-boot/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Web Development</title>
-      <link>https://your_domain.com/tags/web-development/</link>
+      <link>https://hannie1812.github.io/HannieBlog/tags/web-development/</link>
       <pubDate>Fri, 17 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://your_domain.com/tags/web-development/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/tags/web-development/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>CompletableFuture</title>
-      <link>https://your_domain.com/tags/completablefuture/</link>
+      <link>https://hannie1812.github.io/HannieBlog/tags/completablefuture/</link>
       <pubDate>Thu, 16 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://your_domain.com/tags/completablefuture/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/tags/completablefuture/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Concurrency</title>
-      <link>https://your_domain.com/tags/concurrency/</link>
+      <link>https://hannie1812.github.io/HannieBlog/tags/concurrency/</link>
       <pubDate>Thu, 16 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://your_domain.com/tags/concurrency/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/tags/concurrency/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Core Java</title>
-      <link>https://your_domain.com/tags/core-java/</link>
+      <link>https://hannie1812.github.io/HannieBlog/tags/core-java/</link>
       <pubDate>Thu, 16 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://your_domain.com/tags/core-java/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/tags/core-java/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>ExecutorService</title>
-      <link>https://your_domain.com/tags/executorservice/</link>
+      <link>https://hannie1812.github.io/HannieBlog/tags/executorservice/</link>
       <pubDate>Thu, 16 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://your_domain.com/tags/executorservice/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/tags/executorservice/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Multithreading</title>
-      <link>https://your_domain.com/tags/multithreading/</link>
+      <link>https://hannie1812.github.io/HannieBlog/tags/multithreading/</link>
       <pubDate>Thu, 16 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://your_domain.com/tags/multithreading/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/tags/multithreading/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Collections</title>
-      <link>https://your_domain.com/tags/collections/</link>
+      <link>https://hannie1812.github.io/HannieBlog/tags/collections/</link>
       <pubDate>Wed, 15 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://your_domain.com/tags/collections/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/tags/collections/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>List</title>
-      <link>https://your_domain.com/tags/list/</link>
+      <link>https://hannie1812.github.io/HannieBlog/tags/list/</link>
       <pubDate>Wed, 15 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://your_domain.com/tags/list/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/tags/list/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Map</title>
-      <link>https://your_domain.com/tags/map/</link>
+      <link>https://hannie1812.github.io/HannieBlog/tags/map/</link>
       <pubDate>Wed, 15 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://your_domain.com/tags/map/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/tags/map/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Set</title>
-      <link>https://your_domain.com/tags/set/</link>
+      <link>https://hannie1812.github.io/HannieBlog/tags/set/</link>
       <pubDate>Wed, 15 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://your_domain.com/tags/set/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/tags/set/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Lập Trình Hướng Đối Tượng</title>
-      <link>https://your_domain.com/tags/l%E1%BA%ADp-tr%C3%ACnh-h%C6%B0%E1%BB%9Bng-%C4%91%E1%BB%91i-t%C6%B0%E1%BB%A3ng/</link>
+      <link>https://hannie1812.github.io/HannieBlog/tags/l%E1%BA%ADp-tr%C3%ACnh-h%C6%B0%E1%BB%9Bng-%C4%91%E1%BB%91i-t%C6%B0%E1%BB%A3ng/</link>
       <pubDate>Tue, 14 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://your_domain.com/tags/l%E1%BA%ADp-tr%C3%ACnh-h%C6%B0%E1%BB%9Bng-%C4%91%E1%BB%91i-t%C6%B0%E1%BB%A3ng/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/tags/l%E1%BA%ADp-tr%C3%ACnh-h%C6%B0%E1%BB%9Bng-%C4%91%E1%BB%91i-t%C6%B0%E1%BB%A3ng/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>OOP</title>
-      <link>https://your_domain.com/tags/oop/</link>
+      <link>https://hannie1812.github.io/HannieBlog/tags/oop/</link>
       <pubDate>Tue, 14 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://your_domain.com/tags/oop/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/tags/oop/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>ES6</title>
-      <link>https://your_domain.com/tags/es6/</link>
+      <link>https://hannie1812.github.io/HannieBlog/tags/es6/</link>
       <pubDate>Mon, 13 Oct 2025 11:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://your_domain.com/tags/es6/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/tags/es6/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>JavaScript</title>
-      <link>https://your_domain.com/tags/javascript/</link>
+      <link>https://hannie1812.github.io/HannieBlog/tags/javascript/</link>
       <pubDate>Mon, 13 Oct 2025 11:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://your_domain.com/tags/javascript/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/tags/javascript/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Modern JavaScript</title>
-      <link>https://your_domain.com/tags/modern-javascript/</link>
+      <link>https://hannie1812.github.io/HannieBlog/tags/modern-javascript/</link>
       <pubDate>Mon, 13 Oct 2025 11:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://your_domain.com/tags/modern-javascript/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/tags/modern-javascript/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>DOM</title>
-      <link>https://your_domain.com/tags/dom/</link>
+      <link>https://hannie1812.github.io/HannieBlog/tags/dom/</link>
       <pubDate>Mon, 13 Oct 2025 10:30:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://your_domain.com/tags/dom/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/tags/dom/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Async</title>
-      <link>https://your_domain.com/tags/async/</link>
+      <link>https://hannie1812.github.io/HannieBlog/tags/async/</link>
       <pubDate>Mon, 13 Oct 2025 10:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://your_domain.com/tags/async/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/tags/async/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Callbacks</title>
-      <link>https://your_domain.com/tags/callbacks/</link>
+      <link>https://hannie1812.github.io/HannieBlog/tags/callbacks/</link>
       <pubDate>Mon, 13 Oct 2025 10:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://your_domain.com/tags/callbacks/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/tags/callbacks/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Promises</title>
-      <link>https://your_domain.com/tags/promises/</link>
+      <link>https://hannie1812.github.io/HannieBlog/tags/promises/</link>
       <pubDate>Mon, 13 Oct 2025 10:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://your_domain.com/tags/promises/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/tags/promises/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Hoisting</title>
-      <link>https://your_domain.com/tags/hoisting/</link>
+      <link>https://hannie1812.github.io/HannieBlog/tags/hoisting/</link>
       <pubDate>Mon, 13 Oct 2025 09:30:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://your_domain.com/tags/hoisting/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/tags/hoisting/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Scope</title>
-      <link>https://your_domain.com/tags/scope/</link>
+      <link>https://hannie1812.github.io/HannieBlog/tags/scope/</link>
       <pubDate>Mon, 13 Oct 2025 09:30:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://your_domain.com/tags/scope/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/tags/scope/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Variables</title>
-      <link>https://your_domain.com/tags/variables/</link>
+      <link>https://hannie1812.github.io/HannieBlog/tags/variables/</link>
       <pubDate>Mon, 13 Oct 2025 09:30:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://your_domain.com/tags/variables/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/tags/variables/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Cơ Bản</title>
-      <link>https://your_domain.com/tags/c%C6%A1-b%E1%BA%A3n/</link>
+      <link>https://hannie1812.github.io/HannieBlog/tags/c%C6%A1-b%E1%BA%A3n/</link>
       <pubDate>Mon, 13 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://your_domain.com/tags/c%C6%A1-b%E1%BA%A3n/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/tags/c%C6%A1-b%E1%BA%A3n/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Giới Thiệu</title>
-      <link>https://your_domain.com/tags/gi%E1%BB%9Bi-thi%E1%BB%87u/</link>
+      <link>https://hannie1812.github.io/HannieBlog/tags/gi%E1%BB%9Bi-thi%E1%BB%87u/</link>
       <pubDate>Mon, 13 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://your_domain.com/tags/gi%E1%BB%9Bi-thi%E1%BB%87u/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/tags/gi%E1%BB%9Bi-thi%E1%BB%87u/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Hello World</title>
-      <link>https://your_domain.com/tags/hello-world/</link>
+      <link>https://hannie1812.github.io/HannieBlog/tags/hello-world/</link>
       <pubDate>Mon, 13 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://your_domain.com/tags/hello-world/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/tags/hello-world/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Web</title>
-      <link>https://your_domain.com/tags/web/</link>
+      <link>https://hannie1812.github.io/HannieBlog/tags/web/</link>
       <pubDate>Mon, 13 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://your_domain.com/tags/web/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/tags/web/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Introduction</title>
-      <link>https://your_domain.com/tags/introduction/</link>
+      <link>https://hannie1812.github.io/HannieBlog/tags/introduction/</link>
       <pubDate>Sun, 12 Oct 2025 15:37:26 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://your_domain.com/tags/introduction/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/tags/introduction/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Personal</title>
-      <link>https://your_domain.com/tags/personal/</link>
+      <link>https://hannie1812.github.io/HannieBlog/tags/personal/</link>
       <pubDate>Sun, 12 Oct 2025 15:37:26 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://your_domain.com/tags/personal/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/tags/personal/</guid>
       <description></description>
       
     </item>

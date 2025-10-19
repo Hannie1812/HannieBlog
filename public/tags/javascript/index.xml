@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JavaScript on Hannie&#39;s Blog</title>
-    <link>https://your_domain.com/tags/javascript/</link>
+    <link>https://hannie1812.github.io/HannieBlog/tags/javascript/</link>
     <description>Recent content in JavaScript on Hannie&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi</language>
     <managingEditor>bichhang18122004@gmail.com (Hannie Ngô)</managingEditor>
     <webMaster>bichhang18122004@gmail.com (Hannie Ngô)</webMaster>
     <copyright>Hannie Ngô © 2025</copyright>
-    <lastBuildDate>Mon, 13 Oct 2025 11:00:00 +0700</lastBuildDate><atom:link href="https://your_domain.com/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Oct 2025 11:00:00 +0700</lastBuildDate><atom:link href="https://hannie1812.github.io/HannieBlog/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Bài 5: 10 Tính năng ES6&#43; &#34;Thay đổi cuộc chơi&#34; Bạn Phải Biết</title>
-      <link>https://your_domain.com/posts/js-beginner/05_tinh-nang-es6-moi/</link>
+      <link>https://hannie1812.github.io/HannieBlog/posts/js-beginner/05_tinh-nang-es6-moi/</link>
       <pubDate>Mon, 13 Oct 2025 11:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://your_domain.com/posts/js-beginner/05_tinh-nang-es6-moi/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/posts/js-beginner/05_tinh-nang-es6-moi/</guid>
       <description>Khám phá 10 tính năng quan trọng nhất của ES6+ đã thay đổi cách chúng ta viết JavaScript hiện đại.</description>
       
     </item>
     
     <item>
       <title>Bài 4: DOM là gì? &#34;Quyền năng&#34; Thay đổi Trang Web với JavaScript</title>
-      <link>https://your_domain.com/posts/js-beginner/04_javascript-va-dom/</link>
+      <link>https://hannie1812.github.io/HannieBlog/posts/js-beginner/04_javascript-va-dom/</link>
       <pubDate>Mon, 13 Oct 2025 10:30:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://your_domain.com/posts/js-beginner/04_javascript-va-dom/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/posts/js-beginner/04_javascript-va-dom/</guid>
       <description>Tìm hiểu về DOM (Document Object Model) và cách JavaScript tương tác với trang web thông qua DOM API để tạo ra các trang web động.</description>
       
     </item>
     
     <item>
       <title>Bài 3: JavaScript Bất đồng bộ (Async) - Từ Callbacks, Promises đến Async/Await</title>
-      <link>https://your_domain.com/posts/js-beginner/03_javascript-bat-dong-bo/</link>
+      <link>https://hannie1812.github.io/HannieBlog/posts/js-beginner/03_javascript-bat-dong-bo/</link>
       <pubDate>Mon, 13 Oct 2025 10:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://your_domain.com/posts/js-beginner/03_javascript-bat-dong-bo/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/posts/js-beginner/03_javascript-bat-dong-bo/</guid>
       <description>Tìm hiểu về cách JavaScript xử lý các tác vụ bất đồng bộ, từ callbacks truyền thống đến promises và cú pháp hiện đại async/await.</description>
       
     </item>
     
     <item>
       <title>Bài 2: Hiểu Sâu về var, let, và const - Scope và Hoisting</title>
-      <link>https://your_domain.com/posts/js-beginner/02_var-let-const/</link>
+      <link>https://hannie1812.github.io/HannieBlog/posts/js-beginner/02_var-let-const/</link>
       <pubDate>Mon, 13 Oct 2025 09:30:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://your_domain.com/posts/js-beginner/02_var-let-const/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/posts/js-beginner/02_var-let-const/</guid>
       <description>Tìm hiểu sự khác biệt giữa var, let và const trong JavaScript, cách hoạt động của scope và hoisting, và khi nào nên dùng mỗi loại.</description>
       
     </item>
     
     <item>
       <title>Bài 1: JavaScript là gì? Từ &#34;Bộ não&#34; của Web đến &#34;Kẻ thống trị&#34; Mọi Nền tảng</title>
-      <link>https://your_domain.com/posts/js-beginner/01_javascript-la-gi/</link>
+      <link>https://hannie1812.github.io/HannieBlog/posts/js-beginner/01_javascript-la-gi/</link>
       <pubDate>Mon, 13 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://your_domain.com/posts/js-beginner/01_javascript-la-gi/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/posts/js-beginner/01_javascript-la-gi/</guid>
       <description>Giải thích vai trò của JavaScript trong web: DOM, event handling, AJAX, và sự phát triển sang backend, mobile, desktop.</description>
       
     </item>
