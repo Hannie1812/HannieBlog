@@ -11,7 +11,7 @@ weight = 20
 +++
 
 <p align="center">
-  <img src="/img/javascript-logo.png" alt="JavaScript Logo" style="max-width:300px; margin:20px auto;">
+  <img src="img/javascript-logo.png" alt="JavaScript Logo" style="max-width:300px; margin:20px auto;">
 </p>
 
 Chào mừng các bạn đã quay trở lại với blog! 👋

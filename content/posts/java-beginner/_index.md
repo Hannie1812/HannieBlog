@@ -12,7 +12,7 @@ showHero = true
 +++
 
 <p align="center">
-  <img src="/img/java-logo.png" alt="Java Logo" style="max-width:300px; margin:20px auto;">
+  <img src="img/java-logo.png" alt="Java Logo" style="max-width:300px; margin:20px auto;">
 </p>
 
 Chào mừng các bạn đã quay trở lại với blog! 👋
