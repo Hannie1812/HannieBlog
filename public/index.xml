@@ -2,124 +2,136 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hannie&#39;s Blog</title>
-    <link>http://localhost:1313/HannieBlog/</link>
+    <link>https://hannie1812.github.io/HannieBlog/</link>
     <description>Recent content on Hannie&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi</language>
     <managingEditor>bichhang18122004@gmail.com (Hannie Ngô)</managingEditor>
     <webMaster>bichhang18122004@gmail.com (Hannie Ngô)</webMaster>
     <copyright>Hannie Ngô © 2025</copyright>
-    <lastBuildDate>Fri, 17 Oct 2025 09:00:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/HannieBlog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Oct 2025 09:00:00 +0700</lastBuildDate><atom:link href="https://hannie1812.github.io/HannieBlog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Bài 5: Xây Dựng Ứng Dụng Web Với Spring Boot</title>
-      <link>http://localhost:1313/HannieBlog/posts/java-beginner/05_xay-dung-ung-dung-web-voi-spring-boot/</link>
+      <link>https://hannie1812.github.io/HannieBlog/posts/java-beginner/05_xay-dung-ung-dung-web-voi-spring-boot/</link>
       <pubDate>Fri, 17 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>http://localhost:1313/HannieBlog/posts/java-beginner/05_xay-dung-ung-dung-web-voi-spring-boot/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/posts/java-beginner/05_xay-dung-ung-dung-web-voi-spring-boot/</guid>
       <description>Hướng dẫn xây dựng RESTful API đơn giản với Spring Boot, từ khởi tạo dự án, tạo Model, Repository, Controller đến kết nối cơ sở dữ liệu.</description>
       
     </item>
     
     <item>
       <title>Bài 4: Lập Trình Đa Luồng (Multithreading) Trong Java</title>
-      <link>http://localhost:1313/HannieBlog/posts/java-beginner/04_lap-trinh-da-luong/</link>
+      <link>https://hannie1812.github.io/HannieBlog/posts/java-beginner/04_lap-trinh-da-luong/</link>
       <pubDate>Thu, 16 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>http://localhost:1313/HannieBlog/posts/java-beginner/04_lap-trinh-da-luong/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/posts/java-beginner/04_lap-trinh-da-luong/</guid>
       <description>Tìm hiểu về lập trình đa luồng trong Java, từ Thread/Runnable cơ bản, ExecutorService, đến CompletableFuture hiện đại.</description>
       
     </item>
     
     <item>
       <title>Bài 3: Java Collections Framework - List, Set, và Map</title>
-      <link>http://localhost:1313/HannieBlog/posts/java-beginner/03_java-collections-framework/</link>
+      <link>https://hannie1812.github.io/HannieBlog/posts/java-beginner/03_java-collections-framework/</link>
       <pubDate>Wed, 15 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>http://localhost:1313/HannieBlog/posts/java-beginner/03_java-collections-framework/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/posts/java-beginner/03_java-collections-framework/</guid>
       <description>Hiểu sâu về 3 interface cốt lõi của Java Collections Framework: List, Set, và Map, cùng các lớp triển khai phổ biến như ArrayList, HashSet, HashMap.</description>
       
     </item>
     
     <item>
       <title>Bài 2: Lập Trình Hướng Đối Tượng (OOP) Trong Java</title>
-      <link>http://localhost:1313/HannieBlog/posts/java-beginner/02_lap-trinh-huong-doi-tuong/</link>
+      <link>https://hannie1812.github.io/HannieBlog/posts/java-beginner/02_lap-trinh-huong-doi-tuong/</link>
       <pubDate>Tue, 14 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>http://localhost:1313/HannieBlog/posts/java-beginner/02_lap-trinh-huong-doi-tuong/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/posts/java-beginner/02_lap-trinh-huong-doi-tuong/</guid>
       <description>Tìm hiểu sâu về 4 trụ cột của OOP trong Java: Tính đóng gói, Kế thừa, Đa hình và Trừu tượng, với các ví dụ thực tế.</description>
       
     </item>
     
     <item>
       <title>Bài 5: 10 Tính năng ES6&#43; &#34;Thay đổi cuộc chơi&#34; Bạn Phải Biết</title>
-      <link>http://localhost:1313/HannieBlog/posts/js-beginner/05_tinh-nang-es6-moi/</link>
+      <link>https://hannie1812.github.io/HannieBlog/posts/js-beginner/05_tinh-nang-es6-moi/</link>
       <pubDate>Mon, 13 Oct 2025 11:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>http://localhost:1313/HannieBlog/posts/js-beginner/05_tinh-nang-es6-moi/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/posts/js-beginner/05_tinh-nang-es6-moi/</guid>
       <description>Khám phá 10 tính năng quan trọng nhất của ES6+ đã thay đổi cách chúng ta viết JavaScript hiện đại.</description>
       
     </item>
     
     <item>
       <title>Bài 4: DOM là gì? &#34;Quyền năng&#34; Thay đổi Trang Web với JavaScript</title>
-      <link>http://localhost:1313/HannieBlog/posts/js-beginner/04_javascript-va-dom/</link>
+      <link>https://hannie1812.github.io/HannieBlog/posts/js-beginner/04_javascript-va-dom/</link>
       <pubDate>Mon, 13 Oct 2025 10:30:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>http://localhost:1313/HannieBlog/posts/js-beginner/04_javascript-va-dom/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/posts/js-beginner/04_javascript-va-dom/</guid>
       <description>Tìm hiểu về DOM (Document Object Model) và cách JavaScript tương tác với trang web thông qua DOM API để tạo ra các trang web động.</description>
       
     </item>
     
     <item>
       <title>Bài 3: JavaScript Bất đồng bộ (Async) - Từ Callbacks, Promises đến Async/Await</title>
-      <link>http://localhost:1313/HannieBlog/posts/js-beginner/03_javascript-bat-dong-bo/</link>
+      <link>https://hannie1812.github.io/HannieBlog/posts/js-beginner/03_javascript-bat-dong-bo/</link>
       <pubDate>Mon, 13 Oct 2025 10:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>http://localhost:1313/HannieBlog/posts/js-beginner/03_javascript-bat-dong-bo/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/posts/js-beginner/03_javascript-bat-dong-bo/</guid>
       <description>Tìm hiểu về cách JavaScript xử lý các tác vụ bất đồng bộ, từ callbacks truyền thống đến promises và cú pháp hiện đại async/await.</description>
       
     </item>
     
     <item>
       <title>Bài 2: Hiểu Sâu về var, let, và const - Scope và Hoisting</title>
-      <link>http://localhost:1313/HannieBlog/posts/js-beginner/02_var-let-const/</link>
+      <link>https://hannie1812.github.io/HannieBlog/posts/js-beginner/02_var-let-const/</link>
       <pubDate>Mon, 13 Oct 2025 09:30:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>http://localhost:1313/HannieBlog/posts/js-beginner/02_var-let-const/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/posts/js-beginner/02_var-let-const/</guid>
       <description>Tìm hiểu sự khác biệt giữa var, let và const trong JavaScript, cách hoạt động của scope và hoisting, và khi nào nên dùng mỗi loại.</description>
       
     </item>
     
     <item>
       <title>Bài 1: JavaScript là gì? Từ &#34;Bộ não&#34; của Web đến &#34;Kẻ thống trị&#34; Mọi Nền tảng</title>
-      <link>http://localhost:1313/HannieBlog/posts/js-beginner/01_javascript-la-gi/</link>
+      <link>https://hannie1812.github.io/HannieBlog/posts/js-beginner/01_javascript-la-gi/</link>
       <pubDate>Mon, 13 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>http://localhost:1313/HannieBlog/posts/js-beginner/01_javascript-la-gi/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/posts/js-beginner/01_javascript-la-gi/</guid>
       <description>Giải thích vai trò của JavaScript trong web: DOM, event handling, AJAX, và sự phát triển sang backend, mobile, desktop.</description>
       
     </item>
     
     <item>
       <title>Bài 1: Nhập Môn Java - Hướng Dẫn Toàn Diện</title>
-      <link>http://localhost:1313/HannieBlog/posts/java-beginner/01_nhap-mon-java/</link>
+      <link>https://hannie1812.github.io/HannieBlog/posts/java-beginner/01_nhap-mon-java/</link>
       <pubDate>Mon, 13 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>http://localhost:1313/HannieBlog/posts/java-beginner/01_nhap-mon-java/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/posts/java-beginner/01_nhap-mon-java/</guid>
       <description>Hướng dẫn toàn diện về Java cho người mới bắt đầu, từ khái niệm, cài đặt môi trường đến viết chương trình Hello World đầu tiên.</description>
       
     </item>
     
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/HannieBlog/aboutme/</link>
+      <link>https://hannie1812.github.io/HannieBlog/aboutme/</link>
       <pubDate>Sun, 12 Oct 2025 15:37:26 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>http://localhost:1313/HannieBlog/aboutme/</guid>
-      <description>&lt;p align=&#34;center&#34;&gt;
-  &lt;img src=&#34;http://localhost:1313/HannieBlog/img/about_me.png&#34; alt=&#34;Ảnh đại diện&#34;&gt;
-&lt;/p&gt;
+      <guid>https://hannie1812.github.io/HannieBlog/aboutme/</guid>
+      <description>&lt;figure&gt;
+        &lt;img
+          class=&#34;my-0 rounded-md mx-auto&#34;
+          srcset=&#34;
+          /HannieBlog/img/about_me_hu_f53fc0987d2948cc.png 330w,
+          /HannieBlog/img/about_me_hu_2001002a0bbbb622.png 660w,
+          /HannieBlog/img/about_me_hu_59c4808ab633191.png 1024w,
+          /HannieBlog/img/about_me_hu_41ddb2efb3433a27.png 2x&#34;
+          src=&#34;https://hannie1812.github.io/HannieBlog/img/about_me_hu_2001002a0bbbb622.png&#34;
+          data-zoom-src=&#34;https://hannie1812.github.io/HannieBlog/img/about_me_hu_41ddb2efb3433a27.png&#34;
+          alt=&#34;Ảnh đại diện&#34;
+        /&gt;
+  
+  
+  &lt;/figure&gt;
 
 &lt;h3 class=&#34;relative group&#34;&gt;👋 Chào bạn, mình là Hannie! 
     &lt;div id=&#34;-chào-bạn-mình-là-hannie&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;

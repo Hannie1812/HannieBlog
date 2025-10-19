@@ -2,24 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Introduction on Hannie&#39;s Blog</title>
-    <link>http://localhost:1313/HannieBlog/tags/introduction/</link>
+    <link>https://hannie1812.github.io/HannieBlog/tags/introduction/</link>
     <description>Recent content in Introduction on Hannie&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi</language>
     <managingEditor>bichhang18122004@gmail.com (Hannie Ngô)</managingEditor>
     <webMaster>bichhang18122004@gmail.com (Hannie Ngô)</webMaster>
     <copyright>Hannie Ngô © 2025</copyright>
-    <lastBuildDate>Sun, 12 Oct 2025 15:37:26 +0700</lastBuildDate><atom:link href="http://localhost:1313/HannieBlog/tags/introduction/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Oct 2025 15:37:26 +0700</lastBuildDate><atom:link href="https://hannie1812.github.io/HannieBlog/tags/introduction/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/HannieBlog/aboutme/</link>
+      <link>https://hannie1812.github.io/HannieBlog/aboutme/</link>
       <pubDate>Sun, 12 Oct 2025 15:37:26 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>http://localhost:1313/HannieBlog/aboutme/</guid>
-      <description>&lt;p align=&#34;center&#34;&gt;
-  &lt;img src=&#34;http://localhost:1313/HannieBlog/img/about_me.png&#34; alt=&#34;Ảnh đại diện&#34;&gt;
-&lt;/p&gt;
+      <guid>https://hannie1812.github.io/HannieBlog/aboutme/</guid>
+      <description>&lt;figure&gt;
+        &lt;img
+          class=&#34;my-0 rounded-md mx-auto&#34;
+          srcset=&#34;
+          /HannieBlog/img/about_me_hu_f53fc0987d2948cc.png 330w,
+          /HannieBlog/img/about_me_hu_2001002a0bbbb622.png 660w,
+          /HannieBlog/img/about_me_hu_59c4808ab633191.png 1024w,
+          /HannieBlog/img/about_me_hu_41ddb2efb3433a27.png 2x&#34;
+          src=&#34;https://hannie1812.github.io/HannieBlog/img/about_me_hu_2001002a0bbbb622.png&#34;
+          data-zoom-src=&#34;https://hannie1812.github.io/HannieBlog/img/about_me_hu_41ddb2efb3433a27.png&#34;
+          alt=&#34;Ảnh đại diện&#34;
+        /&gt;
+  
+  
+  &lt;/figure&gt;
 
 &lt;h3 class=&#34;relative group&#34;&gt;👋 Chào bạn, mình là Hannie! 
     &lt;div id=&#34;-chào-bạn-mình-là-hannie&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;

@@ -3,91 +3,91 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/HannieBlog/posts/java-beginner/</loc>
+    <loc>https://hannie1812.github.io/HannieBlog/posts/java-beginner/</loc>
     <lastmod>2025-10-13T08:00:00+07:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/HannieBlog/posts/js-beginner/</loc>
+    <loc>https://hannie1812.github.io/HannieBlog/posts/js-beginner/</loc>
     <lastmod>2025-10-13T08:00:00+07:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/HannieBlog/posts/java-beginner/05_xay-dung-ung-dung-web-voi-spring-boot/</loc>
+    <loc>https://hannie1812.github.io/HannieBlog/posts/java-beginner/05_xay-dung-ung-dung-web-voi-spring-boot/</loc>
     <lastmod>2025-10-17T09:00:00+07:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/HannieBlog/</loc>
+    <loc>https://hannie1812.github.io/HannieBlog/</loc>
     <lastmod>2025-10-17T09:00:00+07:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/HannieBlog/posts/java-beginner/04_lap-trinh-da-luong/</loc>
+    <loc>https://hannie1812.github.io/HannieBlog/posts/java-beginner/04_lap-trinh-da-luong/</loc>
     <lastmod>2025-10-16T09:00:00+07:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/HannieBlog/posts/java-beginner/03_java-collections-framework/</loc>
+    <loc>https://hannie1812.github.io/HannieBlog/posts/java-beginner/03_java-collections-framework/</loc>
     <lastmod>2025-10-15T09:00:00+07:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/HannieBlog/posts/java-beginner/02_lap-trinh-huong-doi-tuong/</loc>
+    <loc>https://hannie1812.github.io/HannieBlog/posts/java-beginner/02_lap-trinh-huong-doi-tuong/</loc>
     <lastmod>2025-10-14T09:00:00+07:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/HannieBlog/posts/js-beginner/05_tinh-nang-es6-moi/</loc>
+    <loc>https://hannie1812.github.io/HannieBlog/posts/js-beginner/05_tinh-nang-es6-moi/</loc>
     <lastmod>2025-10-13T11:00:00+07:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/HannieBlog/posts/js-beginner/04_javascript-va-dom/</loc>
+    <loc>https://hannie1812.github.io/HannieBlog/posts/js-beginner/04_javascript-va-dom/</loc>
     <lastmod>2025-10-13T10:30:00+07:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/HannieBlog/posts/js-beginner/03_javascript-bat-dong-bo/</loc>
+    <loc>https://hannie1812.github.io/HannieBlog/posts/js-beginner/03_javascript-bat-dong-bo/</loc>
     <lastmod>2025-10-13T10:00:00+07:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/HannieBlog/posts/js-beginner/02_var-let-const/</loc>
+    <loc>https://hannie1812.github.io/HannieBlog/posts/js-beginner/02_var-let-const/</loc>
     <lastmod>2025-10-13T09:30:00+07:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/HannieBlog/posts/js-beginner/01_javascript-la-gi/</loc>
+    <loc>https://hannie1812.github.io/HannieBlog/posts/js-beginner/01_javascript-la-gi/</loc>
     <lastmod>2025-10-13T09:00:00+07:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/HannieBlog/posts/java-beginner/01_nhap-mon-java/</loc>
+    <loc>https://hannie1812.github.io/HannieBlog/posts/java-beginner/01_nhap-mon-java/</loc>
     <lastmod>2025-10-13T09:00:00+07:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/HannieBlog/posts/</loc>
+    <loc>https://hannie1812.github.io/HannieBlog/posts/</loc>
     <lastmod>2025-10-12T16:05:00+07:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/HannieBlog/aboutme/</loc>
+    <loc>https://hannie1812.github.io/HannieBlog/aboutme/</loc>
     <lastmod>2025-10-12T15:37:26+07:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>

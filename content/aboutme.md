@@ -8,9 +8,7 @@ categories: ["About"]
 featuredImage: "/img/about_me.png"
 ---
 
-<p align="center">
-  <img src="/img/about_me.png" alt="Ảnh đại diện">
-</p>
+{{< figure src="/img/about_me.png" alt="Ảnh đại diện" class="mx-auto" >}}
 
 ### 👋 Chào bạn, mình là Hannie!
 

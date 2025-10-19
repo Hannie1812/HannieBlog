@@ -10,9 +10,7 @@ weight = 20
 
 +++
 
-<p align="center">
-  <img src="img/javascript-logo.png" alt="JavaScript Logo" style="max-width:300px; margin:20px auto;">
-</p>
+{{< figure src="img/javascript-logo.png" alt="JavaScript Logo" class="mx-auto" width="300px" >}}
 
 Chào mừng các bạn đã quay trở lại với blog! 👋
 

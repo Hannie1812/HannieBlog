@@ -11,9 +11,7 @@ showHero = true
 
 +++
 
-<p align="center">
-  <img src="img/java-logo.png" alt="Java Logo" style="max-width:300px; margin:20px auto;">
-</p>
+{{< figure src="img/java-logo.png" alt="Java Logo" class="mx-auto" width="300px" >}}
 
 Chào mừng các bạn đã quay trở lại với blog! 👋
 
