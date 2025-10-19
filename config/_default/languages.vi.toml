@@ -1,0 +1,28 @@
+disabled = false
+languageCode = "vi"
+languageName = "Tiếng Việt"
+weight = 1
+title = "Hannie's Blog"
+
+[params]
+  displayName = "VI"
+  isoCode = "vi"
+  rtl = false
+  dateFormat = "02-01-2006"
+   logo = "img/avt_stitch.png"
+   secondaryLogo = "img/avt_stitch.png"
+   description = "My awesome website"
+   copyright = "Hannie Ngô © 2025"
+
+ [params.author]
+   name = "Hannie Ngô"
+   email = "bichhang18122004@gmail.com"
+   image = "img/avt_stitch.png"
+   imageQuality = 96
+   headline = "Đam mê chia sẻ kiến thức lập trình"
+   bio = "Nơi mình ghi lại hành trình khám phá thế giới lập trình mạng với Java và những công nghệ liên quan. Hy vọng bạn sẽ tìm thấy điều gì đó hữu ích!"
+   links = [
+     { email = "mailto:bichhang18122004@gmail.com" },
+     { facebook = "https://facebook.com/hang.ngobichhang.3" },
+     { github = "https://github.com/Hannie1812" },
+   ]
