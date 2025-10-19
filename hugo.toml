@@ -1,0 +1,12 @@
+baseURL = "https://Hannie1812.github.io/HannieBlog/"  # ⚠️ sửa theo GitHub của bạn
+languageCode = "vi"
+title = "Hannie Blog"
+theme = "blowfish"
+paginate = 10
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+
+[params]
+  dateFormat = "2006-01-02"
+  enableSearch = true
+  mainSections = ["posts"]

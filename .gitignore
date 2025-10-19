@@ -4,8 +4,7 @@
 # Tài nguyên đã được xử lý của Hugo
 /resources/
 
-# Thư mục themes (nếu bạn dùng Git Submodule)
-/themes/
+
 
 # File hệ điều hành
 .DS_Store
