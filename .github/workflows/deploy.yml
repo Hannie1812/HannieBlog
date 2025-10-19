@@ -1,24 +1,41 @@
+# Tên của workflow
 name: Deploy Hugo site to GitHub Pages
 
 on:
+  # Chạy khi có push lên nhánh "main"
   push:
     branches: ["main"]
+
+  # Cho phép chạy workflow này thủ công từ tab Actions
   workflow_dispatch:
 
+# Cấp quyền cho workflow để ghi vào GitHub Pages
 permissions:
-  contents: write
+  contents: read
   pages: write
   id-token: write
 
+# Cài đặt đồng thời: chỉ cho phép một lần deploy tại một thời điểm,
+# và hủy các lần chạy trước đó nếu có push mới.
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+# Mặc định trỏ đến thư mục gốc cho Hugo
+defaults:
+  run:
+    shell: bash
+
 jobs:
+  # Job để build trang web
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout source
         uses: actions/checkout@v4
         with:
-          submodules: true # 👈 bắt buộc cho theme Blowfish
-          fetch-depth: 0
+          submodules: true # Lấy cả theme (nếu là submodule)
+          fetch-depth: 0 # Lấy toàn bộ lịch sử git (cần cho Hugo)
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
@@ -27,10 +44,25 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify
+        run: hugo --minify # Build trang web, output mặc định là thư mục ./public
 
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v4
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+          # Tải lên toàn bộ thư mục public
+          path: ./public
+
+  # Job để deploy
+  deploy:
+    # Yêu cầu môi trường deployment là github-pages
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    # Job deploy chỉ chạy sau khi job build thành công
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
