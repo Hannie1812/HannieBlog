@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Giới Thiệu on Hannie&#39;s Blog</title>
+    <link>https://your_domain.com/tags/gi%E1%BB%9Bi-thi%E1%BB%87u/</link>
+    <description>Recent content in Giới Thiệu on Hannie&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>vi</language>
+    <managingEditor>bichhang18122004@gmail.com (Hannie Ngô)</managingEditor>
+    <webMaster>bichhang18122004@gmail.com (Hannie Ngô)</webMaster>
+    <copyright>Hannie Ngô © 2025</copyright>
+    <lastBuildDate>Mon, 13 Oct 2025 09:00:00 +0700</lastBuildDate><atom:link href="https://your_domain.com/tags/gi%E1%BB%9Bi-thi%E1%BB%87u/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bài 1: JavaScript là gì? Từ &#34;Bộ não&#34; của Web đến &#34;Kẻ thống trị&#34; Mọi Nền tảng</title>
+      <link>https://your_domain.com/posts/js-beginner/01_javascript-la-gi/</link>
+      <pubDate>Mon, 13 Oct 2025 09:00:00 +0700</pubDate>
+      <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
+      <guid>https://your_domain.com/posts/js-beginner/01_javascript-la-gi/</guid>
+      <description>Giải thích vai trò của JavaScript trong web: DOM, event handling, AJAX, và sự phát triển sang backend, mobile, desktop.</description>
+      
+    </item>
+    
+    <item>
+      <title>Bài 1: Nhập Môn Java - Hướng Dẫn Toàn Diện</title>
+      <link>https://your_domain.com/posts/java-beginner/01_nhap-mon-java/</link>
+      <pubDate>Mon, 13 Oct 2025 09:00:00 +0700</pubDate>
+      <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
+      <guid>https://your_domain.com/posts/java-beginner/01_nhap-mon-java/</guid>
+      <description>Hướng dẫn toàn diện về Java cho người mới bắt đầu, từ khái niệm, cài đặt môi trường đến viết chương trình Hello World đầu tiên.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

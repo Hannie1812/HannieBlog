@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Development on Hannie&#39;s Blog</title>
+    <link>https://your_domain.com/tags/web-development/</link>
+    <description>Recent content in Web Development on Hannie&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>vi</language>
+    <managingEditor>bichhang18122004@gmail.com (Hannie Ngô)</managingEditor>
+    <webMaster>bichhang18122004@gmail.com (Hannie Ngô)</webMaster>
+    <copyright>Hannie Ngô © 2025</copyright>
+    <lastBuildDate>Fri, 17 Oct 2025 09:00:00 +0700</lastBuildDate><atom:link href="https://your_domain.com/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bài 5: Xây Dựng Ứng Dụng Web Với Spring Boot</title>
+      <link>https://your_domain.com/posts/java-beginner/05_xay-dung-ung-dung-web-voi-spring-boot/</link>
+      <pubDate>Fri, 17 Oct 2025 09:00:00 +0700</pubDate>
+      <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
+      <guid>https://your_domain.com/posts/java-beginner/05_xay-dung-ung-dung-web-voi-spring-boot/</guid>
+      <description>Hướng dẫn xây dựng RESTful API đơn giản với Spring Boot, từ khởi tạo dự án, tạo Model, Repository, Controller đến kết nối cơ sở dữ liệu.</description>
+      
+    </item>
+    
+    <item>
+      <title>Bài 4: DOM là gì? &#34;Quyền năng&#34; Thay đổi Trang Web với JavaScript</title>
+      <link>https://your_domain.com/posts/js-beginner/04_javascript-va-dom/</link>
+      <pubDate>Mon, 13 Oct 2025 10:30:00 +0700</pubDate>
+      <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
+      <guid>https://your_domain.com/posts/js-beginner/04_javascript-va-dom/</guid>
+      <description>Tìm hiểu về DOM (Document Object Model) và cách JavaScript tương tác với trang web thông qua DOM API để tạo ra các trang web động.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

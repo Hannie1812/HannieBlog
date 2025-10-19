@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Modern JavaScript on Hannie&#39;s Blog</title>
+    <link>https://your_domain.com/tags/modern-javascript/</link>
+    <description>Recent content in Modern JavaScript on Hannie&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>vi</language>
+    <managingEditor>bichhang18122004@gmail.com (Hannie Ngô)</managingEditor>
+    <webMaster>bichhang18122004@gmail.com (Hannie Ngô)</webMaster>
+    <copyright>Hannie Ngô © 2025</copyright>
+    <lastBuildDate>Mon, 13 Oct 2025 11:00:00 +0700</lastBuildDate><atom:link href="https://your_domain.com/tags/modern-javascript/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bài 5: 10 Tính năng ES6&#43; &#34;Thay đổi cuộc chơi&#34; Bạn Phải Biết</title>
+      <link>https://your_domain.com/posts/js-beginner/05_tinh-nang-es6-moi/</link>
+      <pubDate>Mon, 13 Oct 2025 11:00:00 +0700</pubDate>
+      <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
+      <guid>https://your_domain.com/posts/js-beginner/05_tinh-nang-es6-moi/</guid>
+      <description>Khám phá 10 tính năng quan trọng nhất của ES6+ đã thay đổi cách chúng ta viết JavaScript hiện đại.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
