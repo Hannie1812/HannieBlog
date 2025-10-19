@@ -1,7 +1,11 @@
 name: Deploy Hugo site to GitHub Pages
+
 on:
   push:
     branches: ["main"]
+
+permissions:
+  contents: write # 👈 thêm dòng này
 
 jobs:
   build:
