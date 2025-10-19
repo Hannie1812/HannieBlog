@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>List on Hannie&#39;s Blog</title>
-    <link>https://hannie1812.github.io/HannieBlog/tags/list/</link>
+    <link>http://localhost:1313/HannieBlog/tags/list/</link>
     <description>Recent content in List on Hannie&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi</language>
     <managingEditor>bichhang18122004@gmail.com (Hannie Ngô)</managingEditor>
     <webMaster>bichhang18122004@gmail.com (Hannie Ngô)</webMaster>
     <copyright>Hannie Ngô © 2025</copyright>
-    <lastBuildDate>Wed, 15 Oct 2025 09:00:00 +0700</lastBuildDate><atom:link href="https://hannie1812.github.io/HannieBlog/tags/list/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Oct 2025 09:00:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/HannieBlog/tags/list/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Bài 3: Java Collections Framework - List, Set, và Map</title>
-      <link>https://hannie1812.github.io/HannieBlog/posts/java-beginner/03_java-collections-framework/</link>
+      <link>http://localhost:1313/HannieBlog/posts/java-beginner/03_java-collections-framework/</link>
       <pubDate>Wed, 15 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://hannie1812.github.io/HannieBlog/posts/java-beginner/03_java-collections-framework/</guid>
+      <guid>http://localhost:1313/HannieBlog/posts/java-beginner/03_java-collections-framework/</guid>
       <description>Hiểu sâu về 3 interface cốt lõi của Java Collections Framework: List, Set, và Map, cùng các lớp triển khai phổ biến như ArrayList, HashSet, HashMap.</description>
       
     </item>

@@ -1,36 +1,43 @@
 # .github/workflows/gh-pages.yml
 
-name: GitHub Pages
+name: Deploy to GitHub Pages
 
 on:
   push:
     branches:
-      - main
+      - main # Chạy workflow khi có push lên nhánh 'main'
+
+  # Cho phép chạy workflow này thủ công từ tab Actions trên GitHub
+  workflow_dispatch:
 
 jobs:
   build-deploy:
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-latest
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
-          submodules: true
-          fetch-depth: 0
+          submodules: true # Lấy cả theme nếu nó là một submodule
+          fetch-depth: 0 # Lấy toàn bộ lịch sử git để Hugo có thể truy cập
 
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: "latest"
+          extended: true # Cài đặt phiên bản extended, cần thiết cho nhiều theme
+
+      - name: Update Hugo Modules
+        run: hugo mod get -u
 
       - name: Build
         run: hugo --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
-        if: ${{ github.ref == 'refs/heads/main' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: gh-pages
-          publish_dir: ./public
+          publish_branch: gh-pages # Deploy tới nhánh 'gh-pages'
+          publish_dir: ./public # Thư mục chứa trang web đã build
+          cname: "" # Bỏ trống nếu bạn dùng domain .github.io
