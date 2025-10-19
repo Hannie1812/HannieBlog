@@ -1,7 +1,7 @@
 +++
 title = "Series: Java Cho Người Mới Bắt Đầu"
 date = "2025-10-13T08:00:00+07:00"
-draft = true
+draft = false
 summary = "Một chuỗi bài viết hướng dẫn toàn diện về lập trình Java, từ những khái niệm cơ bản nhất như biến, kiểu dữ liệu, cấu trúc điều khiển cho đến lập trình hướng đối tượng."
 showTableOfContents = true
 #thumbnail = "java-logo.png"    # Try this if featuredImage doesn't work
