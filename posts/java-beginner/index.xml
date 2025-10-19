@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series: Java Cho Người Mới Bắt Đầu on Hannie&#39;s Blog</title>
+    <link>http://localhost:1313/HannieBlog/posts/java-beginner/</link>
+    <description>Recent content in Series: Java Cho Người Mới Bắt Đầu on Hannie&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>vi</language>
+    <managingEditor>bichhang18122004@gmail.com (Hannie Ngô)</managingEditor>
+    <webMaster>bichhang18122004@gmail.com (Hannie Ngô)</webMaster>
+    <copyright>Hannie Ngô © 2025</copyright>
+    <lastBuildDate>Mon, 13 Oct 2025 08:00:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/HannieBlog/posts/java-beginner/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bài 5: Xây Dựng Ứng Dụng Web Với Spring Boot</title>
+      <link>http://localhost:1313/HannieBlog/posts/java-beginner/05_xay-dung-ung-dung-web-voi-spring-boot/</link>
+      <pubDate>Fri, 17 Oct 2025 09:00:00 +0700</pubDate>
+      <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
+      <guid>http://localhost:1313/HannieBlog/posts/java-beginner/05_xay-dung-ung-dung-web-voi-spring-boot/</guid>
+      <description>Hướng dẫn xây dựng RESTful API đơn giản với Spring Boot, từ khởi tạo dự án, tạo Model, Repository, Controller đến kết nối cơ sở dữ liệu.</description>
+      
+    </item>
+    
+    <item>
+      <title>Bài 4: Lập Trình Đa Luồng (Multithreading) Trong Java</title>
+      <link>http://localhost:1313/HannieBlog/posts/java-beginner/04_lap-trinh-da-luong/</link>
+      <pubDate>Thu, 16 Oct 2025 09:00:00 +0700</pubDate>
+      <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
+      <guid>http://localhost:1313/HannieBlog/posts/java-beginner/04_lap-trinh-da-luong/</guid>
+      <description>Tìm hiểu về lập trình đa luồng trong Java, từ Thread/Runnable cơ bản, ExecutorService, đến CompletableFuture hiện đại.</description>
+      
+    </item>
+    
+    <item>
+      <title>Bài 3: Java Collections Framework - List, Set, và Map</title>
+      <link>http://localhost:1313/HannieBlog/posts/java-beginner/03_java-collections-framework/</link>
+      <pubDate>Wed, 15 Oct 2025 09:00:00 +0700</pubDate>
+      <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
+      <guid>http://localhost:1313/HannieBlog/posts/java-beginner/03_java-collections-framework/</guid>
+      <description>Hiểu sâu về 3 interface cốt lõi của Java Collections Framework: List, Set, và Map, cùng các lớp triển khai phổ biến như ArrayList, HashSet, HashMap.</description>
+      
+    </item>
+    
+    <item>
+      <title>Bài 2: Lập Trình Hướng Đối Tượng (OOP) Trong Java</title>
+      <link>http://localhost:1313/HannieBlog/posts/java-beginner/02_lap-trinh-huong-doi-tuong/</link>
+      <pubDate>Tue, 14 Oct 2025 09:00:00 +0700</pubDate>
+      <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
+      <guid>http://localhost:1313/HannieBlog/posts/java-beginner/02_lap-trinh-huong-doi-tuong/</guid>
+      <description>Tìm hiểu sâu về 4 trụ cột của OOP trong Java: Tính đóng gói, Kế thừa, Đa hình và Trừu tượng, với các ví dụ thực tế.</description>
+      
+    </item>
+    
+    <item>
+      <title>Bài 1: Nhập Môn Java - Hướng Dẫn Toàn Diện</title>
+      <link>http://localhost:1313/HannieBlog/posts/java-beginner/01_nhap-mon-java/</link>
+      <pubDate>Mon, 13 Oct 2025 09:00:00 +0700</pubDate>
+      <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
+      <guid>http://localhost:1313/HannieBlog/posts/java-beginner/01_nhap-mon-java/</guid>
+      <description>Hướng dẫn toàn diện về Java cho người mới bắt đầu, từ khái niệm, cài đặt môi trường đến viết chương trình Hello World đầu tiên.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
