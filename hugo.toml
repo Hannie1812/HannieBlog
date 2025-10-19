@@ -2,7 +2,9 @@ baseURL = "https://Hannie1812.github.io/HannieBlog/"  # ⚠️ sửa theo GitHub
 languageCode = "vi"
 title = "Hannie Blog"
 theme = "blowfish"
-paginate = 10
+[pagination]
+  pagerSize = 10
+
 defaultContentLanguage = "en"
 enableRobotsTXT = true
 
