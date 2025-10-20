@@ -1,3 +1,3 @@
 User-agent: *
-Disallow: /
-Sitemap: http://localhost:1313/HannieBlog/sitemap.xml
+Allow: /
+Sitemap: https://hannie1812.github.io/HannieBlog/sitemap.xml

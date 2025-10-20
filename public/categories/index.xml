@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Hannie&#39;s Blog</title>
-    <link>http://localhost:1313/HannieBlog/categories/</link>
+    <link>https://hannie1812.github.io/HannieBlog/categories/</link>
     <description>Recent content in Categories on Hannie&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi</language>
     <managingEditor>bichhang18122004@gmail.com (Hannie Ngô)</managingEditor>
     <webMaster>bichhang18122004@gmail.com (Hannie Ngô)</webMaster>
     <copyright>Hannie Ngô © 2025</copyright>
-    <lastBuildDate>Fri, 17 Oct 2025 09:00:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/HannieBlog/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Oct 2025 09:00:00 +0700</lastBuildDate><atom:link href="https://hannie1812.github.io/HannieBlog/categories/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Lập Trình Java</title>
-      <link>http://localhost:1313/HannieBlog/categories/l%E1%BA%ADp-tr%C3%ACnh-java/</link>
+      <link>https://hannie1812.github.io/HannieBlog/categories/l%E1%BA%ADp-tr%C3%ACnh-java/</link>
       <pubDate>Fri, 17 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>http://localhost:1313/HannieBlog/categories/l%E1%BA%ADp-tr%C3%ACnh-java/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/categories/l%E1%BA%ADp-tr%C3%ACnh-java/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Lập Trình JavaScript</title>
-      <link>http://localhost:1313/HannieBlog/categories/l%E1%BA%ADp-tr%C3%ACnh-javascript/</link>
+      <link>https://hannie1812.github.io/HannieBlog/categories/l%E1%BA%ADp-tr%C3%ACnh-javascript/</link>
       <pubDate>Mon, 13 Oct 2025 11:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>http://localhost:1313/HannieBlog/categories/l%E1%BA%ADp-tr%C3%ACnh-javascript/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/categories/l%E1%BA%ADp-tr%C3%ACnh-javascript/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>About</title>
-      <link>http://localhost:1313/HannieBlog/categories/about/</link>
+      <link>https://hannie1812.github.io/HannieBlog/categories/about/</link>
       <pubDate>Sun, 12 Oct 2025 15:37:26 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>http://localhost:1313/HannieBlog/categories/about/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/categories/about/</guid>
       <description></description>
       
     </item>
