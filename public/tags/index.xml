@@ -2,331 +2,331 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Hannie&#39;s Blog</title>
-    <link>https://hannie1812.github.io/HannieBlog/tags/</link>
+    <link>http://localhost:1313/HannieBlog/tags/</link>
     <description>Recent content in Tags on Hannie&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi</language>
     <managingEditor>bichhang18122004@gmail.com (Hannie Ngô)</managingEditor>
     <webMaster>bichhang18122004@gmail.com (Hannie Ngô)</webMaster>
     <copyright>Hannie Ngô © 2025</copyright>
-    <lastBuildDate>Fri, 17 Oct 2025 09:00:00 +0700</lastBuildDate><atom:link href="https://hannie1812.github.io/HannieBlog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Oct 2025 09:00:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/HannieBlog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Java</title>
-      <link>https://hannie1812.github.io/HannieBlog/tags/java/</link>
+      <link>http://localhost:1313/HannieBlog/tags/java/</link>
       <pubDate>Fri, 17 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://hannie1812.github.io/HannieBlog/tags/java/</guid>
+      <guid>http://localhost:1313/HannieBlog/tags/java/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>JPA</title>
-      <link>https://hannie1812.github.io/HannieBlog/tags/jpa/</link>
+      <link>http://localhost:1313/HannieBlog/tags/jpa/</link>
       <pubDate>Fri, 17 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://hannie1812.github.io/HannieBlog/tags/jpa/</guid>
+      <guid>http://localhost:1313/HannieBlog/tags/jpa/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>REST API</title>
-      <link>https://hannie1812.github.io/HannieBlog/tags/rest-api/</link>
+      <link>http://localhost:1313/HannieBlog/tags/rest-api/</link>
       <pubDate>Fri, 17 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://hannie1812.github.io/HannieBlog/tags/rest-api/</guid>
+      <guid>http://localhost:1313/HannieBlog/tags/rest-api/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Spring Boot</title>
-      <link>https://hannie1812.github.io/HannieBlog/tags/spring-boot/</link>
+      <link>http://localhost:1313/HannieBlog/tags/spring-boot/</link>
       <pubDate>Fri, 17 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://hannie1812.github.io/HannieBlog/tags/spring-boot/</guid>
+      <guid>http://localhost:1313/HannieBlog/tags/spring-boot/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Web Development</title>
-      <link>https://hannie1812.github.io/HannieBlog/tags/web-development/</link>
+      <link>http://localhost:1313/HannieBlog/tags/web-development/</link>
       <pubDate>Fri, 17 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://hannie1812.github.io/HannieBlog/tags/web-development/</guid>
+      <guid>http://localhost:1313/HannieBlog/tags/web-development/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>CompletableFuture</title>
-      <link>https://hannie1812.github.io/HannieBlog/tags/completablefuture/</link>
+      <link>http://localhost:1313/HannieBlog/tags/completablefuture/</link>
       <pubDate>Thu, 16 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://hannie1812.github.io/HannieBlog/tags/completablefuture/</guid>
+      <guid>http://localhost:1313/HannieBlog/tags/completablefuture/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Concurrency</title>
-      <link>https://hannie1812.github.io/HannieBlog/tags/concurrency/</link>
+      <link>http://localhost:1313/HannieBlog/tags/concurrency/</link>
       <pubDate>Thu, 16 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://hannie1812.github.io/HannieBlog/tags/concurrency/</guid>
+      <guid>http://localhost:1313/HannieBlog/tags/concurrency/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Core Java</title>
-      <link>https://hannie1812.github.io/HannieBlog/tags/core-java/</link>
+      <link>http://localhost:1313/HannieBlog/tags/core-java/</link>
       <pubDate>Thu, 16 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://hannie1812.github.io/HannieBlog/tags/core-java/</guid>
+      <guid>http://localhost:1313/HannieBlog/tags/core-java/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>ExecutorService</title>
-      <link>https://hannie1812.github.io/HannieBlog/tags/executorservice/</link>
+      <link>http://localhost:1313/HannieBlog/tags/executorservice/</link>
       <pubDate>Thu, 16 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://hannie1812.github.io/HannieBlog/tags/executorservice/</guid>
+      <guid>http://localhost:1313/HannieBlog/tags/executorservice/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Multithreading</title>
-      <link>https://hannie1812.github.io/HannieBlog/tags/multithreading/</link>
+      <link>http://localhost:1313/HannieBlog/tags/multithreading/</link>
       <pubDate>Thu, 16 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://hannie1812.github.io/HannieBlog/tags/multithreading/</guid>
+      <guid>http://localhost:1313/HannieBlog/tags/multithreading/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Collections</title>
-      <link>https://hannie1812.github.io/HannieBlog/tags/collections/</link>
+      <link>http://localhost:1313/HannieBlog/tags/collections/</link>
       <pubDate>Wed, 15 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://hannie1812.github.io/HannieBlog/tags/collections/</guid>
+      <guid>http://localhost:1313/HannieBlog/tags/collections/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>List</title>
-      <link>https://hannie1812.github.io/HannieBlog/tags/list/</link>
+      <link>http://localhost:1313/HannieBlog/tags/list/</link>
       <pubDate>Wed, 15 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://hannie1812.github.io/HannieBlog/tags/list/</guid>
+      <guid>http://localhost:1313/HannieBlog/tags/list/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Map</title>
-      <link>https://hannie1812.github.io/HannieBlog/tags/map/</link>
+      <link>http://localhost:1313/HannieBlog/tags/map/</link>
       <pubDate>Wed, 15 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://hannie1812.github.io/HannieBlog/tags/map/</guid>
+      <guid>http://localhost:1313/HannieBlog/tags/map/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Set</title>
-      <link>https://hannie1812.github.io/HannieBlog/tags/set/</link>
+      <link>http://localhost:1313/HannieBlog/tags/set/</link>
       <pubDate>Wed, 15 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://hannie1812.github.io/HannieBlog/tags/set/</guid>
+      <guid>http://localhost:1313/HannieBlog/tags/set/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Lập Trình Hướng Đối Tượng</title>
-      <link>https://hannie1812.github.io/HannieBlog/tags/l%E1%BA%ADp-tr%C3%ACnh-h%C6%B0%E1%BB%9Bng-%C4%91%E1%BB%91i-t%C6%B0%E1%BB%A3ng/</link>
+      <link>http://localhost:1313/HannieBlog/tags/l%E1%BA%ADp-tr%C3%ACnh-h%C6%B0%E1%BB%9Bng-%C4%91%E1%BB%91i-t%C6%B0%E1%BB%A3ng/</link>
       <pubDate>Tue, 14 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://hannie1812.github.io/HannieBlog/tags/l%E1%BA%ADp-tr%C3%ACnh-h%C6%B0%E1%BB%9Bng-%C4%91%E1%BB%91i-t%C6%B0%E1%BB%A3ng/</guid>
+      <guid>http://localhost:1313/HannieBlog/tags/l%E1%BA%ADp-tr%C3%ACnh-h%C6%B0%E1%BB%9Bng-%C4%91%E1%BB%91i-t%C6%B0%E1%BB%A3ng/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>OOP</title>
-      <link>https://hannie1812.github.io/HannieBlog/tags/oop/</link>
+      <link>http://localhost:1313/HannieBlog/tags/oop/</link>
       <pubDate>Tue, 14 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://hannie1812.github.io/HannieBlog/tags/oop/</guid>
+      <guid>http://localhost:1313/HannieBlog/tags/oop/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>ES6</title>
-      <link>https://hannie1812.github.io/HannieBlog/tags/es6/</link>
+      <link>http://localhost:1313/HannieBlog/tags/es6/</link>
       <pubDate>Mon, 13 Oct 2025 11:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://hannie1812.github.io/HannieBlog/tags/es6/</guid>
+      <guid>http://localhost:1313/HannieBlog/tags/es6/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>JavaScript</title>
-      <link>https://hannie1812.github.io/HannieBlog/tags/javascript/</link>
+      <link>http://localhost:1313/HannieBlog/tags/javascript/</link>
       <pubDate>Mon, 13 Oct 2025 11:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://hannie1812.github.io/HannieBlog/tags/javascript/</guid>
+      <guid>http://localhost:1313/HannieBlog/tags/javascript/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Modern JavaScript</title>
-      <link>https://hannie1812.github.io/HannieBlog/tags/modern-javascript/</link>
+      <link>http://localhost:1313/HannieBlog/tags/modern-javascript/</link>
       <pubDate>Mon, 13 Oct 2025 11:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://hannie1812.github.io/HannieBlog/tags/modern-javascript/</guid>
+      <guid>http://localhost:1313/HannieBlog/tags/modern-javascript/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>DOM</title>
-      <link>https://hannie1812.github.io/HannieBlog/tags/dom/</link>
+      <link>http://localhost:1313/HannieBlog/tags/dom/</link>
       <pubDate>Mon, 13 Oct 2025 10:30:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://hannie1812.github.io/HannieBlog/tags/dom/</guid>
+      <guid>http://localhost:1313/HannieBlog/tags/dom/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Async</title>
-      <link>https://hannie1812.github.io/HannieBlog/tags/async/</link>
+      <link>http://localhost:1313/HannieBlog/tags/async/</link>
       <pubDate>Mon, 13 Oct 2025 10:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://hannie1812.github.io/HannieBlog/tags/async/</guid>
+      <guid>http://localhost:1313/HannieBlog/tags/async/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Callbacks</title>
-      <link>https://hannie1812.github.io/HannieBlog/tags/callbacks/</link>
+      <link>http://localhost:1313/HannieBlog/tags/callbacks/</link>
       <pubDate>Mon, 13 Oct 2025 10:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://hannie1812.github.io/HannieBlog/tags/callbacks/</guid>
+      <guid>http://localhost:1313/HannieBlog/tags/callbacks/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Promises</title>
-      <link>https://hannie1812.github.io/HannieBlog/tags/promises/</link>
+      <link>http://localhost:1313/HannieBlog/tags/promises/</link>
       <pubDate>Mon, 13 Oct 2025 10:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://hannie1812.github.io/HannieBlog/tags/promises/</guid>
+      <guid>http://localhost:1313/HannieBlog/tags/promises/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Hoisting</title>
-      <link>https://hannie1812.github.io/HannieBlog/tags/hoisting/</link>
+      <link>http://localhost:1313/HannieBlog/tags/hoisting/</link>
       <pubDate>Mon, 13 Oct 2025 09:30:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://hannie1812.github.io/HannieBlog/tags/hoisting/</guid>
+      <guid>http://localhost:1313/HannieBlog/tags/hoisting/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Scope</title>
-      <link>https://hannie1812.github.io/HannieBlog/tags/scope/</link>
+      <link>http://localhost:1313/HannieBlog/tags/scope/</link>
       <pubDate>Mon, 13 Oct 2025 09:30:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://hannie1812.github.io/HannieBlog/tags/scope/</guid>
+      <guid>http://localhost:1313/HannieBlog/tags/scope/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Variables</title>
-      <link>https://hannie1812.github.io/HannieBlog/tags/variables/</link>
+      <link>http://localhost:1313/HannieBlog/tags/variables/</link>
       <pubDate>Mon, 13 Oct 2025 09:30:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://hannie1812.github.io/HannieBlog/tags/variables/</guid>
+      <guid>http://localhost:1313/HannieBlog/tags/variables/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Cơ Bản</title>
-      <link>https://hannie1812.github.io/HannieBlog/tags/c%C6%A1-b%E1%BA%A3n/</link>
+      <link>http://localhost:1313/HannieBlog/tags/c%C6%A1-b%E1%BA%A3n/</link>
       <pubDate>Mon, 13 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://hannie1812.github.io/HannieBlog/tags/c%C6%A1-b%E1%BA%A3n/</guid>
+      <guid>http://localhost:1313/HannieBlog/tags/c%C6%A1-b%E1%BA%A3n/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Giới Thiệu</title>
-      <link>https://hannie1812.github.io/HannieBlog/tags/gi%E1%BB%9Bi-thi%E1%BB%87u/</link>
+      <link>http://localhost:1313/HannieBlog/tags/gi%E1%BB%9Bi-thi%E1%BB%87u/</link>
       <pubDate>Mon, 13 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://hannie1812.github.io/HannieBlog/tags/gi%E1%BB%9Bi-thi%E1%BB%87u/</guid>
+      <guid>http://localhost:1313/HannieBlog/tags/gi%E1%BB%9Bi-thi%E1%BB%87u/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Hello World</title>
-      <link>https://hannie1812.github.io/HannieBlog/tags/hello-world/</link>
+      <link>http://localhost:1313/HannieBlog/tags/hello-world/</link>
       <pubDate>Mon, 13 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://hannie1812.github.io/HannieBlog/tags/hello-world/</guid>
+      <guid>http://localhost:1313/HannieBlog/tags/hello-world/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Web</title>
-      <link>https://hannie1812.github.io/HannieBlog/tags/web/</link>
+      <link>http://localhost:1313/HannieBlog/tags/web/</link>
       <pubDate>Mon, 13 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://hannie1812.github.io/HannieBlog/tags/web/</guid>
+      <guid>http://localhost:1313/HannieBlog/tags/web/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Introduction</title>
-      <link>https://hannie1812.github.io/HannieBlog/tags/introduction/</link>
+      <link>http://localhost:1313/HannieBlog/tags/introduction/</link>
       <pubDate>Sun, 12 Oct 2025 15:37:26 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://hannie1812.github.io/HannieBlog/tags/introduction/</guid>
+      <guid>http://localhost:1313/HannieBlog/tags/introduction/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Personal</title>
-      <link>https://hannie1812.github.io/HannieBlog/tags/personal/</link>
+      <link>http://localhost:1313/HannieBlog/tags/personal/</link>
       <pubDate>Sun, 12 Oct 2025 15:37:26 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>https://hannie1812.github.io/HannieBlog/tags/personal/</guid>
+      <guid>http://localhost:1313/HannieBlog/tags/personal/</guid>
       <description></description>
       
     </item>
