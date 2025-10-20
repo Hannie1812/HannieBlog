@@ -24,11 +24,11 @@ Dù bạn là sinh viên mới bắt đầu, một designer muốn làm trang we
 
 Series được chia thành các bài học cốt lõi, tập trung vào những gì bạn thực sự cần để bắt đầu:
 
-1. [JavaScript là gì? Vai trò trong bộ ba HTML & CSS](/posts/js-beginner/01_javascript-la-gi/)
-2. [Biến (var, let, const), Kiểu Dữ Liệu và Toán Tử](/posts/js-beginner/02_var-let-const/)
-3. [Cấu Trúc Điều Khiển (if/else) và Vòng Lặp](/posts/js-beginner/03_javascript-bat-dong-bo/)
-4. [Hàm (Functions) và Phạm vi biến (Scope)](/posts/js-beginner/04_javascript-va-dom/)
-5. [Giới thiệu về DOM - Khiến trang web "sống động"](/posts/js-beginner/05_tinh-nang-es6-moi/)
+1. [Bài 1: JavaScript là gì? Từ "Bộ não" của Web đến "Kẻ thống trị" Mọi Nền tảng](./01_javascript-la-gi/)
+2. [Bài 2: Hiểu Sâu về var, let, và const - Scope và Hoisting](./02_var-let-const/)
+3. [Bài 3: JavaScript Bất đồng bộ (Async) - Từ Callbacks, Promises đến Async/Await](./03_javascript-bat-dong-bo/)
+4. [Bài 4: DOM là gì? "Quyền năng" Thay đổi Trang Web với JavaScript](./04_javascript-va-dom/)
+5. [Bài 5: 10 Tính năng ES6+ "Thay đổi cuộc chơi" Bạn Phải Biết](./05_tinh-nang-es6-moi/)
 
 ---
 
@@ -50,4 +50,4 @@ Series được chia thành các bài học cốt lõi, tập trung vào những
 
 ---
 
-🧩 **Tiếp theo:** [Bài 1 - JavaScript là gì?](/posts/js-beginner/01_javascript-la-gi/)
+🧩 **Tiếp theo:** [Bài 1: JavaScript là gì? Từ "Bộ não" của Web đến "Kẻ thống trị" Mọi Nền tảng](./01_javascript-la-gi/)

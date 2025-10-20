@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ExecutorService on Hannie&#39;s Blog</title>
-    <link>http://localhost:1313/HannieBlog/tags/executorservice/</link>
+    <link>https://hannie1812.github.io/HannieBlog/tags/executorservice/</link>
     <description>Recent content in ExecutorService on Hannie&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi</language>
     <managingEditor>bichhang18122004@gmail.com (Hannie Ngô)</managingEditor>
     <webMaster>bichhang18122004@gmail.com (Hannie Ngô)</webMaster>
     <copyright>Hannie Ngô © 2025</copyright>
-    <lastBuildDate>Thu, 16 Oct 2025 09:00:00 +0700</lastBuildDate><atom:link href="http://localhost:1313/HannieBlog/tags/executorservice/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Oct 2025 09:00:00 +0700</lastBuildDate><atom:link href="https://hannie1812.github.io/HannieBlog/tags/executorservice/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Bài 4: Lập Trình Đa Luồng (Multithreading) Trong Java</title>
-      <link>http://localhost:1313/HannieBlog/posts/java-beginner/04_lap-trinh-da-luong/</link>
+      <link>https://hannie1812.github.io/HannieBlog/posts/java-beginner/04_lap-trinh-da-luong/</link>
       <pubDate>Thu, 16 Oct 2025 09:00:00 +0700</pubDate>
       <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
-      <guid>http://localhost:1313/HannieBlog/posts/java-beginner/04_lap-trinh-da-luong/</guid>
+      <guid>https://hannie1812.github.io/HannieBlog/posts/java-beginner/04_lap-trinh-da-luong/</guid>
       <description>Tìm hiểu về lập trình đa luồng trong Java, từ Thread/Runnable cơ bản, ExecutorService, đến CompletableFuture hiện đại.</description>
       
     </item>
