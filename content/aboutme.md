@@ -58,10 +58,16 @@ Dưới đây là một số công nghệ và công cụ mình yêu thích và t
 - **Các ngôn ngữ đã học**: C, C#, Java, Python
 - **Cơ sở dữ liệu**: SQL
 - **Kỹ năng & Chứng chỉ**:
-  - Chứng chỉ JavaScript Essentials 1 & 2
-  - Networking Basics
   - Kỹ năng làm việc nhóm, giao tiếp và quản lý thời gian
+  - Networking Basics
   - Tiếng Anh (Chứng chỉ B1)
+
+### Chứng chỉ đã đạt được
+
+- JavaScript Essentials 1
+  {{< figure src="/img/JS-Essentials1.png" alt="Chứng chỉ JavaScript Essentials 1" class="mx-auto" width="50px" >}}
+- JavaScript Essentials 2
+  {{< figure src="/img/JS-Essentials2.png" alt="Chứng chỉ JavaScript Essentials 2" class="mx-auto" width="50px" >}}
 
 ---
 
@@ -84,4 +90,3 @@ Bạn có thể tìm thấy mình tại:
 - **GitHub**: https://github.com/Hannie1812
 - **Facebook**: https://www.facebook.com/hang.ngobichhang.3/
 - **Email**: hanniego182@gmail.com
-- **My CV**: https://www.canva.com/design/DAGzq8Zboxs/6fhaXvZoVnEklwnix6zNBA/view?utm_content=DAGzq8Zboxs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h161f4e9fee
