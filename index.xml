@@ -11,11 +11,11 @@ data-zoom-src="https://hannie1812.github.io/HannieBlog/img/about_me_hu_41ddb2efb
 alt="Ảnh đại diện"
 /&gt;
 &lt;/figure&gt;
-&lt;h3 class="relative group"&gt;👋 Chào bạn, mình là Hannie!
-&lt;div id="-chào-bạn-mình-là-hannie" class="anchor"&gt;&lt;/div&gt;
+&lt;h2 class="relative group"&gt;👋 Giới thiệu
+&lt;div id="-giới-thiệu" class="anchor"&gt;&lt;/div&gt;
 &lt;span
 class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none"&gt;
-&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-ch%c3%a0o-b%e1%ba%a1n-m%c3%acnh-l%c3%a0-hannie" aria-label="Cọc dấu"&gt;#&lt;/a&gt;
+&lt;a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#-gi%e1%bb%9bi-thi%e1%bb%87u" aria-label="Cọc dấu"&gt;#&lt;/a&gt;
 &lt;/span&gt;
-&lt;/h3&gt;
-&lt;p&gt;Chào mừng bạn đã ghé thăm góc nhỏ trên Internet của mình. Mình là một sinh viên năm 4 tại trường Đại học Công nghệ TP.HCM HUTECH, với một niềm đam mê lớn dành cho việc giải quyết các vấn đề hóc búa bằng code.&lt;/p&gt;</description></item></channel></rss>
+&lt;/h2&gt;
+&lt;p&gt;Chào mừng bạn đã ghé thăm góc nhỏ trên Internet của mình. Mình là &lt;strong&gt;Ngô Bích Hằng (Hannie)&lt;/strong&gt;, một sinh viên năm cuối (2022-2026) chuyên ngành Công nghệ thông tin tại trường Đại học Công nghệ TP.HCM HUTECH, với kết quả học tập tốt (GPA 3.66/4).&lt;/p&gt;</description></item></channel></rss>
