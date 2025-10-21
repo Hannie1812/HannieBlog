@@ -25,11 +25,11 @@ Dù bạn là sinh viên mới tiếp cận lập trình hay một người mu�
 
 Series được chia thành các bài học nhỏ, đi từ cơ bản đến phức tạp.
 
-1. [Bài 1: Nhập Môn Java: Hướng Dẫn Toàn Diện Cho Người Mới Bắt Đầu](/posts/java-beginner/01_nhap-mon-java/)
-2. [Bài 2: Lập Trình Hướng Đối Tượng (OOP) Trong Java](/posts/java-beginner/02_lap-trinh-huong-doi-tuong/)
-3. [Bài 3: Java Collections Framework - List, Set, và Map](/posts/java-beginner/03_java-collections-framework/)
-4. [Bài 4: Lập Trình Đa Luồng (Multithreading) Trong Java](/posts/java-beginner/04_lap-trinh-da-luong/)
-5. [Bài 5: Xây Dựng Ứng Dụng Web Với Spring Boot](/posts/java-beginner/05_xay-dung-ung-dung-web-voi-spring-boot/)
+1. [Bài 1: Nhập Môn Java: Hướng Dẫn Toàn Diện Cho Người Mới Bắt Đầu](./01_nhap-mon-java/)
+2. [Bài 2: Lập Trình Hướng Đối Tượng (OOP) Trong Java](./02_lap-trinh-huong-doi-tuong/)
+3. [Bài 3: Java Collections Framework - List, Set, và Map](./03_java-collections-framework/)
+4. [Bài 4: Lập Trình Đa Luồng (Multithreading) Trong Java](./04_lap-trinh-da-luong/)
+5. [Bài 5: Xây Dựng Ứng Dụng Web Với Spring Boot](./05_xay-dung-ung-dung-web-voi-spring-boot/)
 
 ---
 
