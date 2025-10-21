@@ -31,5 +31,40 @@
       
     </item>
     
+    <item>
+      <title>About Me</title>
+      <link>https://hannie1812.github.io/HannieBlog/aboutme/</link>
+      <pubDate>Sun, 12 Oct 2025 15:37:26 +0700</pubDate>
+      <author>bichhang18122004@gmail.com (Hannie Ngô)</author>
+      <guid>https://hannie1812.github.io/HannieBlog/aboutme/</guid>
+      <description>&lt;figure&gt;
+        &lt;img
+          class=&#34;my-0 rounded-md mx-auto&#34;
+          srcset=&#34;
+          /HannieBlog/img/about_me_hu_f53fc0987d2948cc.png 330w,
+          /HannieBlog/img/about_me_hu_2001002a0bbbb622.png 660w,
+          /HannieBlog/img/about_me_hu_59c4808ab633191.png 1024w,
+          /HannieBlog/img/about_me_hu_41ddb2efb3433a27.png 2x&#34;
+          src=&#34;https://hannie1812.github.io/HannieBlog/img/about_me_hu_2001002a0bbbb622.png&#34;
+          data-zoom-src=&#34;https://hannie1812.github.io/HannieBlog/img/about_me_hu_41ddb2efb3433a27.png&#34;
+          alt=&#34;Ảnh đại diện&#34;
+        /&gt;
+  
+  
+  &lt;/figure&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;👋 Giới thiệu 
+    &lt;div id=&#34;-giới-thiệu&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#-gi%e1%bb%9bi-thi%e1%bb%87u&#34; aria-label=&#34;Cọc dấu&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Chào mừng bạn đã ghé thăm góc nhỏ trên Internet của mình. Mình là &lt;strong&gt;Ngô Bích Hằng (Hannie)&lt;/strong&gt;, một sinh viên năm cuối (2022-2026) chuyên ngành Công nghệ thông tin tại trường Đại học Công nghệ TP.HCM HUTECH, với kết quả học tập tốt (GPA 3.66/4).&lt;/p&gt;</description>
+      
+    </item>
+    
   </channel>
 </rss>

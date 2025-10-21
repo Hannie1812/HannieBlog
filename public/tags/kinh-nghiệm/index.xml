@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Introduction on Hannie&#39;s Blog</title>
-    <link>https://hannie1812.github.io/HannieBlog/tags/introduction/</link>
-    <description>Recent content in Introduction on Hannie&#39;s Blog</description>
+    <title>Kinh Nghiệm on Hannie&#39;s Blog</title>
+    <link>https://hannie1812.github.io/HannieBlog/tags/kinh-nghi%E1%BB%87m/</link>
+    <description>Recent content in Kinh Nghiệm on Hannie&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi</language>
     <managingEditor>bichhang18122004@gmail.com (Hannie Ngô)</managingEditor>
     <webMaster>bichhang18122004@gmail.com (Hannie Ngô)</webMaster>
     <copyright>Hannie Ngô © 2025</copyright>
-    <lastBuildDate>Sun, 12 Oct 2025 15:37:26 +0700</lastBuildDate><atom:link href="https://hannie1812.github.io/HannieBlog/tags/introduction/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Oct 2025 15:37:26 +0700</lastBuildDate><atom:link href="https://hannie1812.github.io/HannieBlog/tags/kinh-nghi%E1%BB%87m/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About Me</title>
@@ -33,16 +33,16 @@
   
   &lt;/figure&gt;
 
-&lt;h3 class=&#34;relative group&#34;&gt;👋 Chào bạn, mình là Hannie! 
-    &lt;div id=&#34;-chào-bạn-mình-là-hannie&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;👋 Giới thiệu 
+    &lt;div id=&#34;-giới-thiệu&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#-ch%c3%a0o-b%e1%ba%a1n-m%c3%acnh-l%c3%a0-hannie&#34; aria-label=&#34;Cọc dấu&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#-gi%e1%bb%9bi-thi%e1%bb%87u&#34; aria-label=&#34;Cọc dấu&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h3&gt;
-&lt;p&gt;Chào mừng bạn đã ghé thăm góc nhỏ trên Internet của mình. Mình là một sinh viên năm 4 tại trường Đại học Công nghệ TP.HCM HUTECH, với một niềm đam mê lớn dành cho việc giải quyết các vấn đề hóc búa bằng code.&lt;/p&gt;</description>
+&lt;/h2&gt;
+&lt;p&gt;Chào mừng bạn đã ghé thăm góc nhỏ trên Internet của mình. Mình là &lt;strong&gt;Ngô Bích Hằng (Hannie)&lt;/strong&gt;, một sinh viên năm cuối (2022-2026) chuyên ngành Công nghệ thông tin tại trường Đại học Công nghệ TP.HCM HUTECH, với kết quả học tập tốt (GPA 3.66/4).&lt;/p&gt;</description>
       
     </item>
     
