@@ -84,3 +84,4 @@ Bạn có thể tìm thấy mình tại:
 - **GitHub**: https://github.com/Hannie1812
 - **Facebook**: https://www.facebook.com/hang.ngobichhang.3/
 - **Email**: hanniego182@gmail.com
+- **My CV**: https://www.canva.com/design/DAGzq8Zboxs/6fhaXvZoVnEklwnix6zNBA/view?utm_content=DAGzq8Zboxs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h161f4e9fee
